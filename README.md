@@ -1,5 +1,5 @@
 # TODO:
-* Login Extra Credit - [https://serverless-stack.com/chapters/manage-user-accounts-in-aws-amplify.html](Source)
+* Login Extra Credit - [Source](https://serverless-stack.com/chapters/manage-user-accounts-in-aws-amplify.html)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
